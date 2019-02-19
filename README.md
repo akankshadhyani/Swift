@@ -1,2 +1,2 @@
 # Swift
-The repository to store Swift projects for iOS.
+This is the repository to store Swift projects for iOS.
