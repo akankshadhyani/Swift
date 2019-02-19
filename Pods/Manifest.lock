@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (4.8.1)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - IQKeyboardManagerSwift (6.2.0)
+  - Kingfisher (4.10.1)
+  - ObjectMapper (3.4.2)
+  - Poi (3.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AlamofireObjectMapper (~> 5.2)
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 4.0)
+  - Poi
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - ObjectMapper
+    - Poi
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  Poi: 153f9c751449573ad484dc68b6e4c374cc33d409
+
+PODFILE CHECKSUM: a08e7ffd943aef133bb501fef00b8a47f42a996d
+
+COCOAPODS: 1.6.0
